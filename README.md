@@ -1,2 +1,2 @@
 # samples
-For learning programming several languages
+To learn several programming languages
